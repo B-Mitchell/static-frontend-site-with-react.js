@@ -1,0 +1,90 @@
+.first_div {
+   margin-top: 20px;
+   width: 100%;
+   padding-left: 3%;
+   margin: auto;
+   margin-top: 80px;
+   display: block;
+}
+
+.second_div {
+   width: 90%;
+   margin: auto;
+}
+
+.text_ {
+   width: 790px;
+   height: 40px;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 30px;
+   line-height: 40px;
+   color: #4F276F;
+}
+.text_i {
+   width: 790px;
+   height: 30px;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 30px;
+   color: #6C6868;
+}
+.main_div {
+   display: flex;
+   justify-content: flex-end;
+   align-items: flex-start;
+   padding: 0px;
+   width: 90%;
+   height: 300px;
+   border: 1px solid #D7D7D7;
+   border-radius: 10px;
+}
+.left {
+   width: 50%;
+   padding: 0;
+}
+.right {
+   position: relative;
+   width: 50%;
+}
+.quote {
+   position: relative;
+}
+.upquote {
+   position: absolute;
+}
+.quoted_text {
+   width: 474px;
+   height: 150px;
+   padding: 9px;
+   padding-left: 55px;
+   padding-top: 8%;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 20px;
+   color: #6C6868;
+}
+.downquote {
+   position: absolute;
+   left: 80.8%;
+   right: -41.68%;
+   top: 78.07%;
+   bottom: -25.51%;
+}
+.name {
+   height: 32px;
+   font-family: 'Red Hat Text';
+   font-style: italic;
+   font-weight: 400;
+   font-size: 24px;
+   color: #4F276F;
+}
+.girlimage {
+   background: linear-gradient(90.22deg, #FFFFFF 0.22%, rgba(255, 255, 255, 0.76) 10.92%, rgba(255, 255, 255, 0.28) 22.57%, rgba(255, 255, 255, 0.1) 36.69%, rgba(255, 255, 255, 0) 54.13%);
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   border-radius: 10px;
+   height: 300px;
+}

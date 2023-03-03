@@ -1,0 +1,69 @@
+nav {
+   display: flex;
+   align-items: center;
+   text-align: center;
+   justify-content: space-between;
+   padding: 10px;
+   margin: auto;
+}
+.logo {
+   color: #693493;
+   font-weight: 800;
+   letter-spacing: 1px;
+   text-align: center;
+   margin-left: 18px;
+   display: flex;
+}
+.stethpng {
+   max-width: 100%;
+   height: auto;
+}
+nav > h2 > img {
+   padding-top: 20px;
+}
+.ul {
+   list-style: none;
+   display: flex;
+   text-align: center;
+}
+ul > li {
+   padding: 10px 20px;
+}
+ul > li > a {
+   text-decoration: none;
+   color: rgb(61, 61, 61);
+   font-size: 18px;
+   cursor: pointer;
+}
+li:hover {
+   text-decoration: underline;
+   transition: .5s;
+}
+.buttonC {
+   width: auto;
+   display: flex;
+   flex-wrap: nowrap;
+   float: right;
+}
+.loginB {
+   background-color: white;
+   cursor: pointer;
+   border: none;
+   font-size: 15px;
+   font-weight: 600;
+   color: rgb(223, 134, 223);
+   padding: 14px;
+}
+.goaB {
+   cursor: pointer;
+   border: none;
+   background-color: rgb(223, 156, 223);
+   font-weight: 700;
+   font-size: 15px;
+   color: #693493;
+   border-radius: 10px;
+}
+.goaB:hover {
+   scale: 105%;
+   transition: .2s;
+}

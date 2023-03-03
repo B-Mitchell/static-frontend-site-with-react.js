@@ -1,0 +1,41 @@
+.container {
+   width: 95%;
+   margin: 35px auto;
+   line-height: 2px;
+   display: flex;
+   padding: 10px;
+}
+img {
+   padding: 15px;
+}
+.majImg:hover {
+   scale: 102%;
+   transition: .3s;
+}
+.child_container_one {
+   display: block;
+   text-align: left;
+}
+
+.child_one_button {
+   cursor: pointer;
+   width: 170px;
+   height: 49px;
+   margin-top: 5%;
+   background-color: #693493;
+   border: none;
+   border-radius: 20px;
+   font-size: 16px;
+   line-height: 24px;
+   font-weight: 500;
+   margin-left: 1%;
+   color: white;
+}
+.child_one_button:hover {
+   scale: 105%;
+   transition: .3s;
+}
+.stats-section_top {
+   padding-top: 20px;
+   margin-top: 45px;
+}

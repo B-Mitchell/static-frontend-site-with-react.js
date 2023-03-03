@@ -1,0 +1,25 @@
+.ads_background {
+   width: 100%;
+   background-color: #693493;
+   text-align: center;
+   margin: auto;
+   padding: 20px;
+   height: 151px;
+   
+   left: 0px;
+   top: 873px;
+}
+.h2-text-ads {
+   font-style: normal;
+   font-weight: 400;
+   font-size: 40px;
+   line-height: 53px;
+   color: #FFFFFF;
+}
+.p-tag-ads {
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 21px;
+   color: #FFFFFF;
+}
